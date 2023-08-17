@@ -32,3 +32,4 @@ rl.on('close', () => {
 	console.log(sum_flavors)
 		process.exit()
 })
+
